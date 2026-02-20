@@ -1,0 +1,37 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Join the numbers and get to the 2048 tile!",
+    "iframeUrl": "https://play2048.co/",
+    "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/512px-2048_logo.svg.png"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "Fast paced puzzle game inspired by Tetris.",
+    "iframeUrl": "https://hextris.io/",
+    "thumbnailUrl": "https://hextris.io/images/icons/icon128.png"
+  },
+  {
+    "id": "slowroads",
+    "title": "Slow Roads",
+    "description": "A relaxing driving game with endless procedurally generated roads.",
+    "iframeUrl": "https://slowroads.io/",
+    "thumbnailUrl": "https://images.crazygames.com/slow-roads/20221024094709/slow-roads-cover?auto=format,compress&q=75&cs=strip"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The classic idle baking game.",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "thumbnailUrl": "https://play-lh.googleusercontent.com/Z-mE2A8K-K_qA3O7R-Zk4O2wX_B2l_22E1A11hB2_X_B_2_2_2_2_2_2_2_2_2_2_2_2"
+  },
+  {
+    "id": "smashkarts",
+    "title": "Smash Karts",
+    "description": "Multiplayer kart battle game.",
+    "iframeUrl": "https://smashkarts.io/",
+    "thumbnailUrl": "https://images.crazygames.com/games/smash-karts/cover-1586285005436.png?auto=format,compress&q=75&cs=strip"
+  }
+]
